@@ -1,4 +1,4 @@
-# 17finity - MERN Booking App
+# 17finity - Hotel Booking App
 
 This guide will walk you through the process of setting up the MERN Booking App on your local machine.
 
